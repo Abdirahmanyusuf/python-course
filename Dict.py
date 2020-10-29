@@ -12,7 +12,9 @@ Bio = {
 "Brith-Date": "1992",
 "place-of brith": "Lasanod",
 "Qualification " : "Bsc Computer science",
-"Graduate-Year " : "2017"
+"Graduate-Year " : "2017",
+"location": "Garoowe",
+"Tell": "499882828"
 }
 y = Bio["Brith-Date"]
 print(y)
@@ -35,3 +37,4 @@ Bio = {
 "Graduate-Year " : "2017"
 }
 print(len(Bio))
+
